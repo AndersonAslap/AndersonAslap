@@ -1,10 +1,47 @@
-### Olá! Eu sou o Anderson 👋
+## Hi, how are you? My name is Anderson <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
- <div>
+
+
+
+<img align="right" width="350" height="350" src="https://github.com/rafaelq80/rafaelq80/blob/main/code.svg">
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+ 🌎 `<>Hello World!</>`�🌎
+ <br>
+😄 Pronouns: he/His;
+ <br>
+ 💬 I'm 23 years old, I like study and code;
+ <br>
+ ♥ I love games and English;
+ <br>
+ 🖥️ I'm a Dev Pl. Full-Stack Developer at CMTech Brazil;
+ <br>
+ ⚡ I currently work at CMTech.
+  
+  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<div align="center">
   <a href="https://github.com/AndersonAslap">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonAslap&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonAslap&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AndersonAslap&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonAslap&layout=compact&langs_count=7&theme=radical"/>
 </div>
+  
+ 
+<br>
+<br>
 
 <div style="display: inline_block"><br>
   <b>Front-end</b><br><br>
