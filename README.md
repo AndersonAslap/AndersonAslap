@@ -43,6 +43,7 @@
 <br>
 <br>
 
+ ## Soft Skills
 <div style="display: inline_block"><br>
   <b>Front-end</b><br><br>
  <img align="center" alt="Anderson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -72,8 +73,10 @@
   <b> Data Science</b><br><br>
   <img align="center" alt="Anderson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-  
-  ## My contacts
+
+<br><br>
+ 
+## My contacts
  
 <div> 
   <a href = "mailto:anderson.adolfo1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
