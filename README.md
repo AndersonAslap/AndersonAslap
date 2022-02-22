@@ -49,6 +49,7 @@
  <center>
  <table cellpadding="10" cellspacing="10" width="100%" align="center">
   <tr>
+   
    <td >
     <div style="display: inline_block"><br>
      <b>Front-end</b><br><br>
@@ -71,30 +72,9 @@
    <img align="center" alt="Anderson-HTML" height="30" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" />
   </div>
   </td>
-   
-  </tr>
-  
-  <tr>
-  
-  <td>
-    <div style="display: inline_block"><br>
-     <b>Mobile</b><br><br>
-     <img align="center" alt="Anderson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    </div>
-  </td>
-  
-  <td>
-    <div style="display: inline_block"><br>
-     <b> Data Science</b><br><br>
-     <img align="center" alt="Anderson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    </div>
-  </td>
-   
-  </tr>
   
  </table>
  
- </center>
 
 <br><br>
  
