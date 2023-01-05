@@ -19,14 +19,6 @@
  <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonAslap&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=B897FF&fire=B897FF&currStreakLabel=B897FF" alt="Anderson Aslap" /></div>
  <!-- ./RESUME -->
  
- 
-  <!-- STATS -->
-<div align="center">  
-  <img width="400px" height="220px" src="https://github-readme-stats.vercel.app/api?username=AndersonAslap&show_icons=true&count_private=true&hide_border=true&title_color=B897FF&icon_color=B897FF&text_color=B897FF&bg_color=0d1117" alt="Anderson Aslap github stats" /> 
-  <img width="350px" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonAslap&layout=compact&hide_border=true&title_color=B897FF&text_color=B897FF&bg_color=0d1117" />
-</div>
-<!-- ./STATS -->
- 
 <!-- ICONS-->
 <hr>
 <table align="center">
