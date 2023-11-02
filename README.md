@@ -9,11 +9,6 @@
  </div>
   <hr>
 <!-- ./CONTACT -->
-
-
- <!-- TEXT-->
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B897FF&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+To+Anderson+Aslap+GitHub!;I+Specialize+in+WEB+DEVELOPMENT;I+Expertise+>+4+Years+in+Programming;If+You+Like+My+Work+Follow+And+Reach+Me;Thanks+:%29)](https://git.io/typing-svg)
- <!-- ./TEXT -->
  
   <!-- RESUME-->
  <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonAslap&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=B897FF&fire=B897FF&currStreakLabel=B897FF" alt="Anderson Aslap" /></div>
@@ -27,18 +22,13 @@
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="50"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50"></td>
    </tr>
     <tr>
 <!--     <td>Work Back-end</td> -->
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="50"></td>
-    <td><img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_swagger_icon_130134.png" width="50"></td>
    </tr>
   </table>
  <!-- ./ICONS -->
