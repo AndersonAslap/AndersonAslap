@@ -7,12 +7,8 @@
 <a href="https://www.linkedin.com/in/anderson-dos-santos-lopes-adolfo-de-paiva-4a9b53171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <!-- <a href="https://gitlab.com/AndersonAslap" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> -->
  </div>
-  <hr>
 <!-- ./CONTACT -->
- 
-  <!-- RESUME-->
- <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonAslap&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=B897FF&fire=B897FF&currStreakLabel=B897FF" alt="Anderson Aslap" /></div>
- <!-- ./RESUME -->
+
  
 <!-- ICONS-->
 <hr>
@@ -26,7 +22,6 @@
     <tr>
 <!--     <td>Work Back-end</td> -->
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="50"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="50"></td>
    </tr>
