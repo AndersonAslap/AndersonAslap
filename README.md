@@ -1,49 +1,49 @@
+<h1 align="center">Anderson Paiva 🚀</h1>
 
- 
- <!-- CONTACT-->
-<div align="center">
-<a href="https://api.whatsapp.com/send?phone=5581993525652" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-<a href = "mailto:anderson.adolfo1998@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/anderson-dos-santos-lopes-adolfo-de-paiva-4a9b53171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<!-- <a href="https://gitlab.com/AndersonAslap" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> -->
- </div>
-<!-- ./CONTACT -->
+<p align="center">
+  <b>Software Engineer | Backend & Fullstack Developer</b>
+</p>
 
- 
-<!-- ICONS-->
-<hr>
-<table align="center">
-  <tr>
-<!--     <td>Web Tools Front-end</td> -->
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="50"></td>
-   </tr>
-    <tr>
-<!--     <td>Work Back-end</td> -->
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="50"></td>
-   </tr>
-  </table>
- <!-- ./ICONS -->
- 
- <!-- FOOTER -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"/>
-<!-- ./FOOTER-->
+---
 
+## 📌 Sobre mim
 
-<!-- VISITORS TABLE -->
-<table align="center">
-  <tr>
-    <td>You are visitor</td>
-    <td><img alingn="center" src="https://profile-counter.glitch.me/AndersonAslap/count.svg" </td>
-  </tr>
-</table>
-<!-- ./VISITORS TABLE-->
+Olá! Eu sou Anderson Paiva, um entusiasta de tecnologia e engenharia de software com mais de 5 anos de experiência. Sou apaixonado por criar soluções escaláveis e eficientes, sempre buscando aprimorar a arquitetura e a confiabilidade dos sistemas.
 
+Atualmente, foco no desenvolvimento de aplicações robustas utilizando Java, .NET e React.js, aplicando as melhores práticas e padrões arquiteturais.
 
-<!--
-Profile References:
-https://github.com/marlonfrade
--->
+---
+
+## 💡 Conhecimentos Técnicos
+
+### 🚀 Linguagens de Programação
+✔ Java  
+✔ .NET  
+✔ Node.js + TypeScript  
+✔ React.js + TypeScript  
+
+### 🏗 Arquitetura & Boas Práticas
+✔ Clean Architecture  
+✔ Arquitetura Hexagonal  
+✔ Event-Driven Architecture  
+✔ Arquitetura Monolítica  
+✔ Test-Driven Development (TDD)  
+
+### 🛠 Ferramentas & Tecnologias
+✔ **Bancos de Dados Relacionais**: PostgreSQL, MySQL  
+✔ **Cache**: Redis  
+✔ **Containers & Orquestração**: Docker, Kubernetes  
+✔ **Mensageria**: RabbitMQ  
+✔ **Controle de Versão**: Git, GitLab  
+
+### ☁ Cloud & Serviços AWS
+✔ VPC | EC2 | S3 | RDS  
+
+---
+
+## 📱 Conecte-se Comigo
+
+- **LinkedIn**: [Anderson Paiva](https://www.linkedin.com/in/anderson-paiva-4a9b53171/)
+- **Email**: [anderson.adolfo1998@gmail.com](mailto:anderson.adolfo1998@gmail.com)
+
+📢 **Aberto a novas oportunidades e colaborações!**
