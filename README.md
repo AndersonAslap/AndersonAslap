@@ -1,4 +1,4 @@
-<h1 align="center">Anderson Paiva 🚀</h1>
+<h1 align="center">Anderson Paiva</h1>
 
 ## 📌 Sobre mim
 
